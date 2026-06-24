@@ -1,2 +1,9 @@
 [dependencies]
 scopeguard = "1.2"
+[package]
+name = "mtcp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2"
